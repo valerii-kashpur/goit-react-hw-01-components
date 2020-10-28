@@ -1,0 +1,22 @@
+.avatar{
+    border-radius: 50%;
+}
+.profile{
+    border: 2px solid black;
+    width: 260px;
+    margin: 0 auto;
+    color: burlywood;
+    background-color: cadetblue;
+    text-align: center;
+}
+.stats{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0%;
+}
+.stats li {
+    margin: 0;
+    margin-right: 5px;
+    border: 1px solid gray;
+}

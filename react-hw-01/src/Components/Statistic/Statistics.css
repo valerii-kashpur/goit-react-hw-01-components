@@ -1,0 +1,24 @@
+.statistics{
+    
+    border: 2px solid black;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: burlywood;
+    background-color: cadetblue;
+    text-align: center;
+}
+.title{
+    color: rgb(77, 99, 92);
+
+}
+.stat-list{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.item{
+    width: 60px;
+    height: 30px;
+}

@@ -1,0 +1,27 @@
+    .friend-list .item{
+        display: flex;
+        width: auto;
+        height: auto;
+        border: 2px solid black;
+        margin-bottom: 20px;
+        width: 200px;
+
+    }
+
+    .friend-list .status{
+        display: block;
+        content: "";
+        width: 20px;
+        height: 20px;
+    }
+    .friend-list .avatar{
+        display: block;
+        margin-right: 20px;
+    }
+
+    .friend-list span{
+        display: block;
+        border-radius: 50%;
+        margin-top: 20px;
+        margin-right: 40px;  
+    }
